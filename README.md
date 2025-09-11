@@ -9,7 +9,7 @@ To run the MCP Inspector:
 npx @modelcontextprotocol/inspector uv run research_server.py
 ```
 
-To run within Claude Desktop, modify yur `claude_desktop_config.json` like so.  Update the directory
+To run within Claude Desktop, modify your `claude_desktop_config.json` like so.  Update the directory
 to match your set-up.
 
 ```json
